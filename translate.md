@@ -1,4 +1,4 @@
-**№1**
+### №1
 **Professional PHP Workflow in Sublime Text 3
 This series is exclusively for the working developer who, though familiar with Sublime Text, needs to tweak and optimize their editor particularly for PHP development. Come along, as we review everything from error detection, to project management, to automatic PSR-2 fixing.**
 
@@ -42,8 +42,8 @@ PHP is a language built for the web. As such, it mixes with regular HTML beautif
 PHP - это язык созданный для веба. Как таковой, он смешан с HTML разметкой. Давайте изучим как это работает в этом эпизоде. Вы рассмотрите как встраивается PHP в HTML, вызывая вашу первую функцию и получение URL параметров. ДЗ: Вывести предложение на страницу, получая URL параметры из адресной строки.
 
 ### №7
-Step 5: Separate PHP Logic From Presentation
-We'll touch on a slightly higher level topic in this episode, but only lightly. If you stick with it long enough, you'll begin to hear the phrase "separation of concerns." At our current skill level, this means we should give consideration to the fact that, at the moment, our PHP logic and HTML presentation are a bit too intertwined. Perhaps we can separate these concerns. Step 5 Homework: Play around with creating a new file, preparing a few variables, and then loading a separate "view" file to present the HTML.
+**Step 5: Separate PHP Logic From Presentation
+We'll touch on a slightly higher level topic in this episode, but only lightly. If you stick with it long enough, you'll begin to hear the phrase "separation of concerns." At our current skill level, this means we should give consideration to the fact that, at the moment, our PHP logic and HTML presentation are a bit too intertwined. Perhaps we can separate these concerns. Step 5 Homework: Play around with creating a new file, preparing a few variables, and then loading a separate "view" file to present the HTML.**
 
 Шаг 5: Отделяем логику PHP от представления
 Мы затронем тему чуть более высокого уровня, но только слегка. Если вы пробудете с этим достаточно долго, вы начнете слышать фразу "разделение интересов". На нашем уровне навыков, это значит что мы должны будем учесть тот факт, что в данный момент наша PHP логика и HTML представление немного переплетаются. Возможно мы можем разделить эти вещи. ДЗ: Поиграйте с созданием нового файла, создав несколько переменных и затем загружая отдельные "виды" файла, которые представляют собой HTML.

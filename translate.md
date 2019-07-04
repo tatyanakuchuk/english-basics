@@ -1,6 +1,6 @@
-### №1
-Professional PHP Workflow in Sublime Text 3
-This series is exclusively for the working developer who, though familiar with Sublime Text, needs to tweak and optimize their editor particularly for PHP development. Come along, as we review everything from error detection, to project management, to automatic PSR-2 fixing.
+**№1**
+**Professional PHP Workflow in Sublime Text 3
+This series is exclusively for the working developer who, though familiar with Sublime Text, needs to tweak and optimize their editor particularly for PHP development. Come along, as we review everything from error detection, to project management, to automatic PSR-2 fixing.**
 
 Профессиональный рабочий процесс в ST3
 Эта серия уроков подойдет для тех работающих разработчиков, которые хоть и знакомы с ST, но нуждаются в оптимизации их редактора специально для PHP разработки. Мы рассмотрим все, начиная с обнаружения ошибок до управления проектом и автоматического PSR-2 исправления.

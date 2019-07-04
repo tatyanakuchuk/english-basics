@@ -2,17 +2,17 @@
 **statements** - инструкции (Инструкция — это команда для компьютера, написанная на языке программирования);
 
 ## f
-from the ground up  - с нуля;  
-figure out - выяснить;
+**from the ground up**  - с нуля;  
+**figure out** - выяснить;
 
 ## e
-embed - встраивать, внедрять;
+**embed** - встраивать, внедрять;
 
 ## f
-fetch - получать;
+**fetch** - получать;
 
 ## g 
-give consideration - учитывать;
+**give consideration** - учитывать;
 
 ## i
-intertwine - переплетаются
+**intertwine** - переплетаются

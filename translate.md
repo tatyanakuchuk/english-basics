@@ -1,4 +1,4 @@
-# №1
+## №1
 Professional PHP Workflow in Sublime Text 3
 This series is exclusively for the working developer who, though familiar with Sublime Text, needs to tweak and optimize their editor particularly for PHP development. Come along, as we review everything from error detection, to project management, to automatic PSR-2 fixing.
 

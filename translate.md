@@ -50,8 +50,7 @@ We'll touch on a slightly higher level topic in this episode, but only lightly. 
 
 #### №8
 **Step 6: Understanding Arrays  
-Let's learn about a new construct: arrays. Think of them as primitive collections of related data. Maybe you have an array of names, or animals, or practically anything. Even better, we can filter through this data and act upon it with ease. Step 6 Homework: Create an array of any five animals, and then loop over them with foreach, and display each one within a list item.
-**
+Let's learn about a new construct: arrays. Think of them as primitive collections of related data. Maybe you have an array of names, or animals, or practically anything. Even better, we can filter through this data and act upon it with ease. Step 6 Homework: Create an array of any five animals, and then loop over them with foreach, and display each one within a list item.**
 
 Шаг 6: Понимание массивов  
 

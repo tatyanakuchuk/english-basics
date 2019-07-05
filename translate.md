@@ -50,13 +50,13 @@ We'll touch on a slightly higher level topic in this episode, but only lightly. 
 
 #### №8
 **Step 6: Understanding Arrays  
-Let's learn about a new construct: arrays. Think of them as primitive collections of related data. Maybe you have an array of names, or animals, or practically anything. Even better, we can filter through this data and act upon it with ease. Step 6 Homework: Create an array of any five animals, and then loop over them with foreach, and display each one within a list item.**
+Let's learn about a new construct: arrays. Think of them as primitive collections of related data. Maybe you have an array of names, or animals, or practically anything. Even better, we can filter through this data and act upon it with ease. Step 6 Homework: Create an array of any five animals, and then loop over them with foreach, and display each one within a list item.**  
 Шаг 6: Понимание массивов  
 Давайте изучим новую сущность: массивы. Думайте о них, как о примитивных коллекциях связанных данных. Возможно у вас есть массив имен или животных или практически всего чего угодно. К тому же, мы можем фильтровать данные и делать это с легкостью. ДЗ: Создать массив с пятью любыми животными и затем пройтись по ним циклом foreach и отобразить каждый как элемент списка.
 
 #### №9
 **Step 7: Associative Arrays  
-We've learned about basic arrays, but you may also creative associative arrays when necessary. The only difference is that each value within the array is associated with a key. Let me show you. Homework: Create an associative array for a task. This array should include such details as the title of the task, its due date, who it's assigned to, and whether it has been completed.**
+We've learned about basic arrays, but you may also creative associative arrays when necessary. The only difference is that each value within the array is associated with a key. Let me show you. Homework: Create an associative array for a task. This array should include such details as the title of the task, its due date, who it's assigned to, and whether it has been completed.**  
 Шаг 7: Ассоциативные массивы
 Мы изучили базовые массивы, но вы также должны создавать ассоциативные массивы когда в этом есть необходимость. Единственная разница это каждое значение в массиве соотносится с ключом. Позвольте продемонстрировать вам. ДЗ: Создать ассоциативный массив для упражнения. Этот массив должен включать в себя такие детали как заголовок упражнения, его данные, кто 
 

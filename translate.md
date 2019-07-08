@@ -62,9 +62,16 @@ We've learned about basic arrays, but you may also creative associative arrays w
 Шаг 7: Ассоциативные массивы
 Мы изучили базовые массивы, но вы также должны создавать ассоциативные массивы когда в этом есть необходимость. Единственная разница это каждое значение в массиве соотносится с ключом. Позвольте продемонстрировать вам. ДЗ: Создать ассоциативный массив для задания. Этот массив должен включать в себя такие детали как название задания, дата его выполнения, кто должен выполнить его и было ли оно выполнено.
 
-#### #10
+#### №10
 **Step 8: Booleans  
 "Boolean" is a scary, but simple term to understand. It's a data type that represents one of two values: true or false. As you'll find, you'll reference booleans constantly within your projects. So it's important that you understand this one.**
 
 Шаг 8: Логичесике (булевые) значения  
 "Логическое (булевое) значение" - это пугающий, но простой для понимания термин. Это тип данных, который представляет одно из двух значений: правда или ложь. Как вы потом обнаружите, вы будете постоянно ссылаться на булевые значения в своих проектах. Поэтому важно, чтобы вы их поняли.
+
+#### №11
+**Step 9: Conditionals  
+A conditional is how we branch our logic into different paths. "If some value is true, then we want to proceed in this way. Otherwise, let's handle it in that way." As you can see, booleans and conditionals go hand-in-hand. Homework: Continue tinkering with conditionals. Add a new boolean to your task array, and use its value to branch off into two different paths within your HTML.**
+
+Шаг 9: Условия  
+Условие - это то, как мы разветвляем нашу логику разными путями. "Если какое-то значение правда, то тогда мы хотим пойти дальше этим путем. В противном случае, давайте обрабатывать это вот тем путем." Как вы можете видеть, булевые значения и условия идут рука об руку. ДЗ: Продолжим возиться с условиями. Добавьте новое булево значение в ваш массив задания и используйте его значение чтобы добавить ветвление в двух разных направлениях в вашем HTML коде. 

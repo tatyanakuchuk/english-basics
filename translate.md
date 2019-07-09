@@ -74,4 +74,18 @@ We've learned about basic arrays, but you may also creative associative arrays w
 A conditional is how we branch our logic into different paths. "If some value is true, then we want to proceed in this way. Otherwise, let's handle it in that way." As you can see, booleans and conditionals go hand-in-hand. Homework: Continue tinkering with conditionals. Add a new boolean to your task array, and use its value to branch off into two different paths within your HTML.**
 
 Шаг 9: Условия  
-Условие - это то, как мы разветвляем нашу логику разными путями. "Если какое-то значение правда, то тогда мы хотим пойти дальше этим путем. В противном случае, давайте обрабатывать это вот тем путем." Как вы можете видеть, булевые значения и условия идут рука об руку. ДЗ: Продолжим возиться с условиями. Добавьте новое булево значение в ваш массив задания и используйте его значение чтобы добавить ветвление в двух разных направлениях в вашем HTML коде. 
+Условие - это то, как мы разветвляем нашу логику разными путями. "Если какое-то значение правда, то тогда мы хотим пойти дальше этим путем. В противном случае, давайте обрабатывать это вот тем путем." Как вы можете видеть, булевые значения и условия идут рука об руку. ДЗ: Продолжим возиться с условиями. Добавьте новое булево значение в ваш массив задания и используйте его значение чтобы добавить ветвление в двух разных направлениях в вашем HTML коде.
+
+#### №12
+**Step 10: Functions  
+Think of a function as a container for reusable pieces of logic. In this lesson, you'll create your very first function. Homework: Write a function that determines if a provided age (sent through as an argument) is old enough to enter a 21-and-up night club. Have this function return a boolean, which can be used in any conditional.**
+
+Шаг 10: Функции
+Думайте о функции как о контейнере для реиспользуемого кусков логики. В этом уроке вы создадите вашу первую функцию. ДЗ: Напишите функцию, которая определяет если введенный возраст (передаваемый как аргумент) достаточный для входа в ночной клуб от 21-го и выше. Эта функция должна возвращать булево значение которое может быть использовано в любом условии.
+
+#### №13
+**MySQL 101  
+You've only just begun learning the fundamentals of PHP, and already I'm throwing something else at you. Sorry (bows head in shame), that's just how it is; there are lots of moving pieces to your typical web application. We must take some to review databases. This is how we "remember" information. Or, in other words, if a user creates a handful of todo items, how will we remember those todos for when they return to our site next week? Well, the answer is through a database.**
+
+MySQL 101  
+Вы только начали изучение основ PHP, а я уже подбрасываю вам кое-что другое. Извините (склоняет голову от стыда), вот так как есть; 

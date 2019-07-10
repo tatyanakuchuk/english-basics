@@ -89,3 +89,10 @@ You've only just begun learning the fundamentals of PHP, and already I'm throwin
 
 MySQL 101  
 Вы только начали изучение основ PHP, а я уже подбрасываю вам кое-что другое. Извините (склоняет голову от стыда), вот так как есть; ваше веб приложение состоит из множество меняющихся частей. Мы должны взять некоторые из них чтобы рассмотреть базы данных. Это то, как мы "запоминаем" информацию. Или, другими словами, если пользователь создает список из нескольких todo-пунктов как мы запомним эти пункты к моменту когда пользователь вернется на наш сайт на следующей неделе? Итак, ответ в базах данных.
+
+#### №14
+**Classes 101  
+I know you're excited about MySQL, and want to fetch records using PHP. However, we need to make one quick pit stop. We must learn the basics of writing classes, and creating objects. So let's tackle that in this episode, and then I promise we'll move on to writing SQL queries with PHP.**
+
+Классы  
+Я знаю что вы взволнованы из-за MySQL и хотите получить данные используя PHP. Тем не менее, нам необходимо сделать одну коротку остановку. Мы должны изучить базовое написание классов и создание объектов. Итак, давайте изучим то, что есть в этом эпизоде и потом я обещаю мы вернемся к написанию SQL запросов на PHP.

@@ -27,7 +27,8 @@
 **figure out** - выяснить;
 
 ## g 
-**give consideration** - учитывать;
+**give consideration** - учитывать;  
+**guilty** - виновный;
 
 ## i
 **intertwine** - переплетаются;  

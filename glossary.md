@@ -3,6 +3,7 @@
 **assign** - присваивать    
 **actually** - на самом деле    
 **average** - средний  
+**available** - доступный  
 
 ## b
 **to branch** - ветвить  
@@ -21,12 +22,14 @@
 ## e
 **embed** - встраивать  
 **even** - четное  
-**except** - кроме, за исключением
+**except** - кроме, за исключением  
+**environment** - окружение  
 
 ## f
 **fetch** - получать;  
 **from the ground up, from scratch**  - с нуля;  
-**figure out** - выяснить;
+**figure out** - выяснить
+**fit** - подходить  
 
 ## g 
 **give consideration** - учитывать;  
@@ -64,13 +67,15 @@
 ## r
 **require** - требовать, запрашивать;  
 **those** - те, тех, теми;  
-**records** - данные;
+**records** - данные  
+**relevant** - соответствующий
 
 ## s
 **statements** - инструкции    
 **subtract** - вычесть  
 **shorthand** - сокращенный вариант, алиас 
 **stuff** - материал  
+**to switch** - переключать
 
 ## t
 **through** - через;  
